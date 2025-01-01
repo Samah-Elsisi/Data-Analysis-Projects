@@ -1,6 +1,6 @@
 # Top UK YouTubers 2024
 
-![Image of Power BI Dashboard](Top UK YouTubers 2024/Power BI/Images/image.png)
+![Image of Power BI Dashboard](https://github.com/Samah-Elsisi/Data-Analysis-Projects/blob/main/Top%20UK%20YouTubers%202024/Power%20BI/Images/image.png)
 
 # Objective 
 
@@ -140,8 +140,8 @@ The cleaned data should meet the following criteria and constraints:
 
 - What does the dashboard look like?
 
-![Image of Power BI Dashboard](Top UK YouTubers 2024/Power BI/overview.png)
-![Image of Power BI Dashboard](Top UK YouTubers 2024/Power BI/Details.png)
+![Image of Power BI Dashboard](https://github.com/Samah-Elsisi/Data-Analysis-Projects/blob/main/Top%20UK%20YouTubers%202024/Power%20BI/overview.png)
+![Image of Power BI Dashboard](https://github.com/Samah-Elsisi/Data-Analysis-Projects/blob/main/Top%20UK%20YouTubers%202024/Power%20BI/Details.png)
 
 This shows the Top UK Youtubers in 2024 so far. 
 
